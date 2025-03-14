@@ -6,7 +6,7 @@
                     <div class="form-group col-md-4">
                         <label for="inputState">Client</label>
                         <select class="custom-select" id="inputGroupSelect01" data-toggle="drop-clients" data-default="<?php echo isset($client) ? $client : ''; ?>">
-                            <option selected>- Clients Not Found -</option>
+                            <option selected>- Clients Not Found RIFGHT -</option>
                         </select>
                     </div>
                     <div class="form-group col-md-4">
